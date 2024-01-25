@@ -5,5 +5,6 @@
 ## [[digital-garden/Triceps press i slynge\|Triceps press i slynge]]
 
 
-## Beskrivelse 
-<iframe width="600" height="300" src="https://www.youtube.com/embed/4Xhce_zqmys?t=50" title="4 BEST TRX Triceps Exercises" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## Beskrivelse
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4Xhce_zqmys?start=50" frameborder="0" allowfullscreen></iframe>
