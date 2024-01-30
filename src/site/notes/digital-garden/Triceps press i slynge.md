@@ -5,8 +5,14 @@
 ## [[digital-garden/Triceps press i slynge\|Triceps press i slynge]]
 
 
-## Beskrivelse
+## Beskrivelse  [[digital-garden/Triceps press i slynge\|Triceps press i slynge]]
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4Xhce_zqmys?start=5" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/4Xhce_zqmys?start=5" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="" frameborder="https://youtu.be/4Xhce_zqmys?t=50" allowfullscreen></iframe>
+### Opplegg
+
+| Antall serier | 20   |
+| ------------- | --- |
+| Antall reps   | 311  |
+## Her er en ny nivå 2 seksjon
+bla bla
