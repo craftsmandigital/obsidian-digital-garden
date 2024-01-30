@@ -4,9 +4,17 @@
 
 ## [[digital-garden/Dips i ringer\|Dips i ringer]]
 
-## Beskrivelse 
+## Beskrivelse [[digital-garden/Dips i ringer\|Dips i ringer]]
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rLFLal3vQww?start=11" frameborder="0" allowfullscreen></iframe>
-	
-<iframe width="600" height="300" src="https://www.youtube.com/embed/rLFLal3vQww?t=11" title="Ring Dip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
- 
+### Opplegg
+
+| Antall serier | 3   |
+| ------------- | --- |
+| Antall reps   | 3   |
+## Her er en ny nivå 2 seksjon
+bla bla
+
+
+
+
